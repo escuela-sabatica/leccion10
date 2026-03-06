@@ -56,7 +56,7 @@
     </main>
 
     <footer class="footer">
-      <p>Basado en el estudio de Colosenses 2 - Teología y Psicología de la Salvación</p>
+      <p>Basado en el estudio de Colosenses 2 - Teología de la Salvación ❤️ </p>
     </footer>
   </div>
 </template>
@@ -456,5 +456,6 @@ const resetQuiz = () => {
   .option-btn { font-size: 1rem; }
 }
 </style>
+
 
 
