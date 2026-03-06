@@ -256,7 +256,7 @@ const resetQuiz = () => {
   color: white;
   background: linear-gradient(-45deg, #5BB7C6, #6983B4, #5BB7C6);
   background-size: 400% 400%;
-  animation: gradientBG 15s ease infinite;
+  /*animation: gradientBG 15s ease infinite;*/
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
@@ -456,4 +456,5 @@ const resetQuiz = () => {
   .option-btn { font-size: 1rem; }
 }
 </style>
+
 
