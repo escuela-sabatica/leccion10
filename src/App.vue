@@ -75,7 +75,7 @@ const questions = ref([
       "Que es un estado alcanzado por el esfuerzo humano"
     ],
     correctAnswer: 1,
-    explanation: "Estar completo en Él significa que Jesús es la revelación absoluta y que en Él están todos los tesoros de sabiduría; no necesitamos ritos tradicionales [4-6]."
+    explanation: "Estar completo en Él significa que Jesús es la revelación absoluta y que en Él están todos los tesoros de sabiduría; no necesitamos ritos tradicionales."
   },
   {
     text: "¿Cómo se define el proceso de 'morir al yo'?",
@@ -86,7 +86,7 @@ const questions = ref([
       "Como el rechazo a cualquier tipo de emoción"
     ],
     correctAnswer: 2,
-    explanation: "Morir al yo es una reorientación radical de la voluntad donde el individuo deja de ser el centro para que la Palabra de Dios guíe su vida [1, 7, 8]."
+    explanation: "Morir al yo es una reorientación radical de la voluntad donde el individuo deja de ser el centro para que la Palabra de Dios guíe su vida."
   },
   {
     text: "¿A qué se refiere Pablo con las 'sombras' en Colosenses 2:16-17?",
@@ -97,7 +97,7 @@ const questions = ref([
       "A filosofías griegas oscuras"
     ],
     correctAnswer: 2,
-    explanation: "Las sombras eran celebraciones religiosas y sacrificios del calendario litúrgico que prefiguraban la realidad, la cual es Cristo [9-11]."
+    explanation: "Las sombras eran celebraciones religiosas y sacrificios del calendario litúrgico que prefiguraban la realidad, la cual es Cristo."
   },
   {
     text: "¿Qué simboliza la 'circuncisión hecha sin mano'?",
@@ -108,7 +108,7 @@ const questions = ref([
       "El cumplimiento de leyes de pureza"
     ],
     correctAnswer: 1,
-    explanation: "Representa el despojarse del cuerpo pecaminoso mediante el bautismo y la renovación del carácter por la gracia [12-14]."
+    explanation: "Representa el despojarse del cuerpo pecaminoso mediante el bautismo y la renovación del carácter por la gracia."
   },
   {
     text: "Según el análisis de la conducta, ¿qué es el 'narcisismo espiritual'?",
@@ -119,7 +119,7 @@ const questions = ref([
       "Estudiar la Biblia con diligencia"
     ],
     correctAnswer: 0,
-    explanation: "Es la tendencia patológica a creer que la observancia de reglamentos o cambios internos son meritorios para la salvación [15-17]."
+    explanation: "Es la tendencia patológica a creer que la observancia de reglamentos o cambios internos son meritorios para la salvación."
   },
   {
     text: "¿Cuál es el fundamento único de la salvación según las fuentes?",
@@ -130,7 +130,7 @@ const questions = ref([
       "Nuestra capacidad de entender misterios ocultos"
     ],
     correctAnswer: 1,
-    explanation: "La salvación descansa en lo que Jesús hizo sin nuestra intervención; nuestros cambios son el fruto, no la causa [15, 18-20]."
+    explanation: "La salvación descansa en lo que Jesús hizo sin nuestra intervención; nuestros cambios son el fruto, no la causa."
   },
   {
     text: "¿Cuál es la diferencia entre el sábado semanal y los sábados ceremoniales?",
@@ -141,7 +141,7 @@ const questions = ref([
       "Los ceremoniales son más importantes que el semanal"
     ],
     correctAnswer: 1,
-    explanation: "El sábado del cuarto mandamiento precede al pecado, mientras que los ceremoniales estaban ligados al sistema de sacrificios [10, 21, 22]."
+    explanation: "El sábado del cuarto mandamiento precede al pecado, mientras que los ceremoniales estaban ligados al sistema de sacrificios."
   },
   {
     text: "¿Qué significa estar 'arraigados' en Cristo?",
@@ -152,7 +152,7 @@ const questions = ref([
       "Depender de la opinión de los líderes religiosos"
     ],
     correctAnswer: 1,
-    explanation: "Sugiere una estabilidad que protege al individuo de ser llevado cautivo por vanas sutilezas o corrientes humanas [1, 3, 8, 23]."
+    explanation: "Sugiere una estabilidad que protege al individuo de ser llevado cautivo por vanas sutilezas o corrientes humanas."
   },
   {
     text: "¿Qué advierte Pablo sobre los 'mandatos y enseñanzas de hombres'?",
@@ -163,7 +163,7 @@ const questions = ref([
       "Que son la base de la madurez cristiana"
     ],
     correctAnswer: 1,
-    explanation: "Estas regulaciones humanas a menudo imponen ascetismo pero no transforman el corazón ni conectan con la Cabeza, que es Cristo [24-26]."
+    explanation: "Estas regulaciones humanas a menudo imponen ascetismo pero no transforman el corazón ni conectan con la Cabeza, que es Cristo."
   },
   {
     text: "¿Por qué es vital considerar la Biblia como la 'voz de Dios que habla directamente'?",
@@ -174,7 +174,7 @@ const questions = ref([
       "Porque las tradiciones humanas son insuficientes para escribir libros"
     ],
     correctAnswer: 0,
-    explanation: "Dudar de su autoridad deja la mente vulnerable a la cautividad intelectual y a marcos cognitivos erróneos [27-29]."
+    explanation: "Dudar de su autoridad deja la mente vulnerable a la cautividad intelectual y a marcos cognitivos erróneos."
   }
 ]);
 
@@ -456,6 +456,7 @@ const resetQuiz = () => {
   .option-btn { font-size: 1rem; }
 }
 </style>
+
 
 
 
