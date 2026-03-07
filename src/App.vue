@@ -194,7 +194,7 @@ const resultsMessage = computed(() => {
   const percentage = (score.value / questions.length) * 100;
   if (percentage === 100) return "¡Plenitud total! Estás profundamente arraigado en la Verdad [3].";
   if (percentage >= 70) return "Gran conocimiento. Sigue creciendo en la gracia y el conocimiento de Cristo [30].";
-  return "Es una oportunidad para volver a las fuentes y consolidar tu fundamento en Él [2].";
+  return "Es una oportunidad para volver a las fuentes y consolidar tu fundamento en Él.";
 });
 
 // --- ACCIONES ---
@@ -456,6 +456,7 @@ const resetQuiz = () => {
   .option-btn { font-size: 1rem; }
 }
 </style>
+
 
 
 
